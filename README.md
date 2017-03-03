@@ -1,0 +1,2 @@
+# Bewertungssystem_IDA
+Entwicklung eines Bewertungssystems zur soziodemografischen Einordnung von Standorten
